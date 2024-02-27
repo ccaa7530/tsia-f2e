@@ -1,3 +1,9 @@
+# Netilfy Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a199e98-753b-4109-86cb-80a3efc7d35d/deploy-status)](https://app.netlify.com/sites/tsia-uat/deploys)
+
+This image automatically updates to reflect the current state of your latest production deploy. To create a status badge for a deployed branch, add the ?branch= query parameter to the badge URL. You can use the markdown snippet below to add it to your project README.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
